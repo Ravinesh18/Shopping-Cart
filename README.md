@@ -59,3 +59,36 @@ Using yarn:
 yarn start
 
 The app should now be running on http://localhost:3000. 
+
+```
+
+### Usage
+- **Browse Products:** Explore the available products on the homepage.
+- **Add to Cart:** Click on the "Add to Cart" button to add products to your shopping cart.
+- **View Cart:** Click on the cart icon to view items in your shopping cart.
+- **Update Quantities:** Adjust the quantity of items directly in the cart.
+- **Search Products:** Use the search bar to find specific products.
+- **Checkout:** Click on the "Checkout" button to proceed with the purchase.
+- **Filter Products:** Use category filters to narrow down product listings.
+
+### Project Structure
+The project is organized into the following main directories:
+
+- **src/components:** Contains reusable components.
+- **src/pages:** Contains the main pages of the application.
+- **src/styles:** Contains CSS and styling files.
+- **src/utils:** Contains utility functions and helpers.
+- **src/context:** Contains context providers for state management.
+
+### Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+### Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
