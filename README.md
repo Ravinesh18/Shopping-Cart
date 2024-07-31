@@ -40,3 +40,22 @@ Ensure you have the following installed on your local machine:
 ```bash
 git clone https://github.com/yourusername/shopping-cart-app.git
 cd shopping-cart-app
+
+2. **Install dependencies:**
+
+Using npm:
+
+npm install
+Using yarn:
+
+yarn install
+
+3. **Start the development server:**
+Using npm:
+
+npm start
+Using yarn:
+
+yarn start
+
+The app should now be running on http://localhost:3000. 
