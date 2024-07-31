@@ -75,9 +75,6 @@ The app should now be running on http://localhost:3000.
 The project is organized into the following main directories:
 
 - **src/components:** Contains reusable components.
-- **src/pages:** Contains the main pages of the application.
-- **src/styles:** Contains CSS and styling files.
-- **src/utils:** Contains utility functions and helpers.
 - **src/context:** Contains context providers for state management.
 
 ### Contributing
